@@ -1,5 +1,11 @@
 # {{name}}
 
+## Project description
+
+```
+{{description}}
+```
+
 ## Project setup
 
 ```
